@@ -29,5 +29,5 @@ const ProductCard = ({product}: {product: Product;}) => {
       </CardContent>
     </Card> );
 }
-200
+
 export default ProductCard;
